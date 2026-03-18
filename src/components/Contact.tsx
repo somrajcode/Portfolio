@@ -18,12 +18,12 @@ export default function Contact() {
           transition={{ duration: 0.8 }}
           className="mb-12"
         >
-          <p className="text-zinc-500 tracking-[0.2em] uppercase text-sm font-bold mb-4">What's Next?</p>
+          <p className="text-zinc-500 tracking-[0.2em] uppercase text-sm font-bold mb-4">What&apos;s Next?</p>
           <h2 className="text-5xl md:text-8xl font-black tracking-tighter text-white mb-6 leading-none">
             Get In Touch
           </h2>
           <p className="text-lg md:text-2xl text-zinc-400 font-light max-w-2xl mx-auto">
-            I'm currently looking for new opportunities in Cybersecurity and Creative Development. Whether you have a question or just want to say hi, I'll try my best to get back to you!
+            I&apos;m currently looking for new opportunities in Cybersecurity and Creative Development. Whether you have a question or just want to say hi, I&apos;ll try my best to get back to you!
           </p>
         </motion.div>
 

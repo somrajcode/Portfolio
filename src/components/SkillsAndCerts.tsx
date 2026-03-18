@@ -44,7 +44,7 @@ export default function SkillsAndCerts() {
               visible: { opacity: 1, transition: { staggerChildren: 0.1 } }
             }}
           >
-            {skills.map((skill, i) => (
+            {skills.map((skill) => (
               <motion.div
                 key={skill}
                 variants={{
